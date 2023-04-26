@@ -2,9 +2,6 @@
   "name": "ember-cli-shims",
   "version": "0.1.1",
   "description": "The default blueprint for ember-cli addons.",
-  "keywords": [
-    "ember-addon"
-  ],
   "license": "MIT",
   "author": "",
   "repository": "",
